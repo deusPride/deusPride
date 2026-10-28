@@ -20,6 +20,21 @@ Custom solutions, delivered fast · Technical Project Manager · WordPress Exper
 
 ---
 
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+
+<a href="https://github.com/deusPride">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deusPride&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</a>
+<a href="https://github.com/deusPride">
+  <img src="https://streak-stats.demolab.com?user=deusPride&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</a>
+
+</div>
+
+---
+
 ### 💻 Software Engineering
 
 Computer engineer (Master's in Computer Engineering, University of Ngaoundéré) with 5+ years of full-stack development.
@@ -110,27 +125,6 @@ On top of engineering, I lead web and software projects from scoping to delivery
 **Data, DevOps & Tools**
 
 ![DevOps & Tools](https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vercel,blender,figma,vscode&perline=10)
-
-</div>
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-
-<a href="https://github.com/deusPride">
-  <img src="https://github-readme-stats.vercel.app/api?username=deusPride&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-</a>
-<a href="https://github.com/deusPride">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deusPride&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/deusPride">
-  <img src="https://streak-stats.demolab.com?user=deusPride&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
 
 </div>
 
