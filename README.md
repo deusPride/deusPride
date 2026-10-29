@@ -47,7 +47,7 @@ I build software around the way a business actually works, not the other way aro
 - 🚀 **Fast delivery**: a working first version early, then short iterations driven by user feedback.
 - 🤖 **AI-accelerated development**: AI-assisted coding and reusable building blocks to cut delivery time without cutting quality.
 - 🔧 **Production-ready from day one**: hosting, CI/CD, monitoring and event alerts (Discord) set up with the first release.
-- 📦 **Examples**: a wedding management platform (bookings, personalised tickets sent by e-mail, SMS notifications), the Her-AI-Africa and Alcloudemy platforms, data dashboards for TK International, internal apps at AFRIKIYA Lab.
+- 📦 **Examples**: a wedding management platform (bookings, personalised tickets sent by e-mail, SMS notifications), the Her-AI-Africa and Alcloudemy platforms, data dashboards for TK International, internal apps at a local consulting firm.
 
 #### 🧱 Engineering foundations
 
@@ -70,7 +70,7 @@ On top of engineering, I lead web and software projects from scoping to delivery
 - 🔁 **Agile delivery**: short iterations, regular demos, client feedback built into each cycle.
 - 🧩 **Multi-workstream steering**: several work packages and stakeholders tracked in parallel, with clear owners and deadlines.
 - 📚 **Documentation & handover**: specs, decision logs and admin training so clients stay autonomous.
-- 🎓 **Team lead & mentor**: supervised and evaluated intern projects at Ingenieris-Cameroun (2023–2025); currently Technology & AI Innovation Lead at AFRIKIYA Lab.
+- 🎓 **Team lead & mentor**: supervised and evaluated intern projects at Ingenieris-Cameroun (2023–2025); currently Technology & AI Innovation Lead at a local consulting firm.
 
 <div align="center">
 
