@@ -114,13 +114,13 @@ On top of engineering, I lead web and software projects from scoping to delivery
 
 <div align="center">
 
-**Languages & Frameworks**
+**Front-end & Mobile**
 
-![Frameworks](https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,php,laravel,py,flutter&perline=10)
+![Front-end](https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,threejs,flutter&perline=10)
 
-**Web, CMS & 3D**
+**Back-end & CMS**
 
-![Web & CMS](https://skillicons.dev/icons?i=html,css,wordpress,threejs&perline=10)
+![Back-end](https://skillicons.dev/icons?i=nodejs,express,php,laravel,py,fastapi,wordpress&perline=10)
 
 **Data, DevOps & Tools**
 
